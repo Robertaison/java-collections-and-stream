@@ -15,4 +15,4 @@
 * This course is at:
 [Digital Innovation One](https://digitalinnovation.one/)
 
-* Specific in this [here]()https://digitalinnovation.one/cursos/aprenda-collection-e-streams-na-linguagem-java/?ref=lp&hidden_text&source=/skills/java&
+* Specific in this [here](https://digitalinnovation.one/cursos/aprenda-collection-e-streams-na-linguagem-java/?ref=lp&hidden_text&source=/skills/java&)
