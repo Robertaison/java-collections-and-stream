@@ -1,7 +1,5 @@
 package comparator_orderirng;
 
-import comparator_orderirng.Pessoa;
-
 import java.util.Comparator;
 
 public class PessoaReverseComparator implements Comparator<Pessoa> {
